@@ -1,4 +1,4 @@
-# Contact Management System - Back-end
+# DNA System - Back-end
 
 Este projeto é um sistema simples de verificação de DNA desenvolvido em Node.js, com uma base de dados MySQL para armazenar informações de DNA e seu tipo.
 
