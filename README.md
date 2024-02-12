@@ -58,7 +58,7 @@ Acesse a API para gerenciar contatos e números de telefone.
 
 -   Salvar um novo DNA: POST /dnas/
 
-## Exemplo de Payload para Criação/Atualização de Contato
+## Exemplo de Payload para Salvar DNA
 
 ```script
 {
